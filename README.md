@@ -10,4 +10,8 @@ Usare un alert di Bootstrap (il componente HTML/CSS, non alert JS) per mostrare 
 Inserire tutta la logica tutta dentro index.php, mostrare il messaggio di successo/errore dentro un alert di Bootstrap;<br>
 
 ## Milestone 2
-Spostare la logica dentro functions.php (include);
+Spostare la logica dentro functions.php (include);<br><br>
+
+## BONUS
+## Milestone 3
+Invece di usare una classe statica per lo stile dell’alert, modificarla in base all’esito della funzione.
